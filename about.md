@@ -16,7 +16,7 @@ Jesse
 
 ## professional bio
 
-Jesse Williams specializes in leading product marketing for developer tools. He has a deep-understanding of developer workflows, how to position technical products in competitive markets, and how to enable sellers to confidently position developer solutions for IT decision makers. Jesse currently leads the product marketing for AWS Developer Tools (CDK, IDEs, IDE Toolkits, SDKs, IaC, CI/CD.) Prior to AWS, Jesse led the lifecycle marketing team for Red Hat Developer, a community of over 1.5 million independent software developers. Jesse got his start in developer marketing while leading the marketing efforts for Codenvy and open source Eclipse Che.
+Jesse Williams has spent his career leading product marketing for developer tools. He has a deep-understanding of developer workflows, how to position technical products in competitive markets, and how to enable sellers to confidently position developer solutions for IT decision makers. Jesse currently leads the product marketing for AWS Developer Tools (CDK, IDEs, IDE Toolkits, SDKs, IaC, CI/CD.) Prior to AWS, Jesse led the lifecycle marketing team for Red Hat Developer, a community of over 1.5 million independent software developers. Jesse got his start in developer marketing while leading the marketing efforts for Codenvy and open source Eclipse Che.
 
 Outside of work, he is involved with the Eclipse Cloud Development Tools Working Group, where he hosts Cloud Chats, a Twitch series focused on open source leadership and strategy. He also serves as a board advisor for Stanza, an open source log agent which is part of the CNCF’s OpenTelemetry project. 
 
