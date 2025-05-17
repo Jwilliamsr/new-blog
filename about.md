@@ -1,12 +1,12 @@
 ---
 layout: page
 title: about me
-description: "Jesse Williams, specializes in developer marketing and relations, open source community building, and bringing developer-facing technologies to market."
+description: "Jesse Williams, is a co-founder of Jozu, and project lead for open source KitOps. He specializes in developer marketing and relations, open source community building, and bringing developer-facing technologies to market."
 ---
 ## About me
 Welcome, my name is Jesse Williams. 
 
-This is where I house my thoughts on topics that interest me including product marketing, open sources strategies, startup operations, and anything else that appeals to me. The opinions that you will find in my posts are my own, they do not represent the views of my clients, partners, or past employers, and are taken directly from my current views on life, which I expect will change as I grow and experience more. Life is a journey, you can follow mine or ignore it ... trolling is unappreciated.
+This is where I house my thoughts on topics that interest me including my founding journey, product marketing, open sources strategies, startup operations, and anything else that appeals to me. The opinions that you will find in my posts are my own, they do not represent the views of my companies, partners, or past employers, and are taken directly from my current views on life, which I expect will change as I grow and experience more. Life is a journey, you can follow mine or ignore it ... trolling is unappreciated.
 
 All is grace,
 Jesse
@@ -18,7 +18,7 @@ Jesse
 
 Jesse Williams is a seasoned founder and operator specializing in crafting differentiated messaging that clearly communicates value. Jesse combines technical experience in developer tooling and open source, with a passion for operational excellence. His contributions have led to three successful exit events (YouCaring, Codenvy, ExecVision) and have been integral to AWS, Docker, and Red Hat product growth, where he's held executive roles. Jesse's impact extends to portfolio companies under Insight, Peakspan, and GTMfund.
 
-Currently, Jesse is the co-founder of Jozu, a PE-backed MLOps tool built on the open-source KitOps platform, and Stori, a messaging and positioning firm that collaborates with PE and VC firms to reposition their portcos.
+Currently, Jesse is the co-founder of Jozu, a venture backed MLOps tool built on the open-source KitOps platform.
 
 Jesse resides in Virginia with his wife and three kids. 
 
@@ -44,7 +44,8 @@ Jesse resides in Virginia with his wife and three kids.
 
 - VP Product Marketing: <a href="https://www.docker.com/blog/announcing-docker-scout-ga/">Docker Scout GA</a>
 
-- Consulting: DroneDeploy, SkyCatch, HelioCampus, Spiritus Solutions
+- Consulting: You can see Jesse's messaging and positioning work reflected across the following sites:
+Pipekit, Webiny, Trellis Law, ChurnZero, SPRY, Improvado, Provado, SkillJar, Docker, AWS, Red hat, DroneDeploy, SkyCatch, and HelioCampus
 
 
 ## What's with the random art
